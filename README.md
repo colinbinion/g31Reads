@@ -13,3 +13,7 @@ Galvanize Reads is a book catalog service that stores a list of recommended tech
 ## Development
 
 * Clone this repo and run `npm start`
+
+
+Heroku deploy.
+https://pure-refuge-20344.herokuapp.com/
